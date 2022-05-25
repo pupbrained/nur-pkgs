@@ -24,7 +24,6 @@ rustPlatform.buildRustPackage rec {
   meta = with lib; {
     description = "🪐 An out-of-this-world greeter for your terminal";
     homepage = "https://github.com/marsupialgutz/draconis";
-    maintainers = with maintainers; [ marsupialgutz ];
     platforms = platforms.linux;
   };
 }
