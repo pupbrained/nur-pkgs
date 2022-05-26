@@ -19,7 +19,7 @@ rustPlatform.buildRustPackage rec {
     sha256 = "1fcnrdjgqkr1ah1wg1jvs1vs94nlkxkdjbqxphilhw7hj1mkdbam";
   };
 
-  cargoSha256 = "pxziVskRcTuQPJ9R5hLJq/RwBE+w8m9ENOs/ZKhxQLw=";
+  cargoSha256 = "AI2hOPGtLIewbu+ggGa2PBb5kVTA5TGUX5Rp9VXSW2o=";
 
   meta = with lib; {
     description = "🪐 An out-of-this-world greeter for your terminal";
