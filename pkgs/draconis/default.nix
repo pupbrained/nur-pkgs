@@ -16,7 +16,7 @@ rustPlatform.buildRustPackage rec {
     owner = "marsupialgutz";
     repo = "draconis";
     rev = "035ef1db0d4226f6d553fa96c3014b53430f97ef";
-    sha256 = "0ph84jlf4x1k30rhyl120f74jh7bfpmyk2pvzkfnr4bz3q2cdwwn";
+    sha256 = "1fcnrdjgqkr1ah1wg1jvs1vs94nlkxkdjbqxphilhw7hj1mkdbam";
   };
 
   cargoSha256 = "pxziVskRcTuQPJ9R5hLJq/RwBE+w8m9ENOs/ZKhxQLw=";
